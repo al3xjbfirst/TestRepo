@@ -7,3 +7,4 @@ do
 done
 echo 'New changes'
 echo 'Another new changes'
+echo 'Last Change'
