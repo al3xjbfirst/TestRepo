@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 echo 'New changes'
+echo 'Another new changes'
